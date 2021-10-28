@@ -14,7 +14,7 @@ body, html{
 .main_section{
   border: 5px solid #000;
   border-top: none;
-  height: 90.5%;
+  height: 91%;
   display: flex;
   justify-content: space-between;
 }
@@ -212,31 +212,31 @@ body, html{
     height: 5%;
   }
   .main_section{
-    height: 93.5%;
+    height: 93%;
     grid-template-rows: 30% 20% 50%;
   }
 
   .diamond1{
-    width: 22.5vw;
-    height: 22.5vw;
-    margin: 5.5% 0 0 52.5%;
+    width: 19vw;
+    height: 19vw;
+    margin: 4% 0 0 55%;
   }
 
   .diamond2{
-    width: 22.5vw;
-    height: 22.5vw;
-    margin: -3% 0 0 15%;
+    width: 19vw;
+    height: 19vw;
+    margin: -4.5% 0 0 20.5%;
   }
   .rectangle1{
     width: 27.5vw;
-    height: 2.25vw;
-    margin: 0 0 10% 5%;
+    height: 2vw;
+    margin: 0 0 9% 5%;
   }
   .rectangle2{
     width: 27.5vw;
-    height: 2.25vw;
+    height: 2vw;
     grid-area: rectangle2;
-    margin: 10% 0 0 5%;
+    margin: 9% 0 0 5%;
   }
   .circle{
     width: 20vw;
@@ -267,9 +267,9 @@ body, html{
 
   .big_rectangle{
     background-color: #0000FF;
-    margin: -5% 0 0 15vw ;
+    margin: 0 0 0 15vw ;
     width: 45vw;
-    height: 97.5%;
+    height: 95%;
   }
 
   .big_rectangle_label{
